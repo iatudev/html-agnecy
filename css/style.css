@@ -1,28 +1,147 @@
-.wrapper {
-    max-width: 600px;
+body {
+	margin: 0;
+}
+
+.header {
+	max-width: 1579px;
+	height: 688px;
+    background-color: #f6f2f2;
+    margin: 0 auto;
+<<<<<<< HEAD
+	padding-top:29px;
+}
+
+
+.infoblock{
+	max-width: 1249px;
+    margin: 108px auto 0px auto
+}
+
+.leftinfo{
+	float: left;
+	max-width: 600px;
+}
+
+.rightinfo{
+	float: right;
+}
+
+.infovideo{
+	width: 551px;
+	height: 356px;
+	background-color: #c2c0b1;
+}
+
+.playvideo{
+	width: 70px;
+	height: 70px;
+}
+
+.center{
+	padding-top:25%;
+    text-align: center;
+}
+
+.logo{
+	width: 588px;
+}
+
+.logo h1{
+	margin: 0;
+	font-family: OpenSans;
+	font-size: 60px;
+	font-weight: 800;
+	line-height: 1.2;
+	letter-spacing: 6px;
+	color: #000000;
+}
+
+.description{
+	margin-top: 36px;
+	width:512px;
+	opacity: 0.7;
+	font-family: OpenSans;
+	font-size: 16px;
+	line-height: 1.75;
+	text-align: left;
+	color: rgba(0, 0, 0, 0.7);
+}
+.Contacts{
+	margin-top: 58px;
+}
+.Contact{
+	width: 227px;
+	color: #ffffff;
+	text-decoration: none; 
+	user-select: none; /* убирать выделение текста */
+	background-color: #ff2d2d; 
+
+	font-size: 18px;
+	line-height: 1.88;
+	letter-spacing: 0.5px;
+	
+	border-radius: 5px;
+	padding: 23px 63px; /* отступ от текста */
+	outline: none; /* убирать контур в Mozilla */
+}
+
+
+.head-menu{
+	max-width: 1249px;
     margin: 0 auto;
 }
+
+.head-menu ul{
+	
+    margin: 0 auto;
+	list-style: none;
+	padding-left: 358px; 
+	background:#000000;
+	height: 89px; 
+    text-align: center;
+}
+
+.head-menu a {
+	text-decoration: none; 
+	background:#000000; 
+	color:#e0e0e0; 
+	padding:0px 15px; /
+	font-family: OpenSans; /*НЕ РАБОТАЕТ, памагите*/
+	line-height:89px; 
+	display: block; 
+	-moz-transition: all 0.3s 0.01s ease;
+	-o-transition: all 0.3s 0.01s ease;
+	-webkit-transition: all 0.3s 0.01s ease;
+
+}
+.head-menu a:hover {
+  background:#D43737;
+}
+.head-menu li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+}
 .footer{
-  width: 1583px;
-  height: 111px;
-  background-color: #313030;
+	width: 1583px;
+	height: 111px;
+	margin: 0 auto;
+	background-color: #313030;
 }
 .footer_text{
 	position: relative;
 	top:40%;left:20%;
-  width: 346px;
-  height: 17px;
-  font-family: OpenSans;
-  font-size: 16px;
-  line-height: 1.63;
-  text-align: left;
-  color: #b8b8b8;
+	width: 346px;
+	height: 17px;
+	font-family: OpenSans;
+	font-size: 16px;
+	line-height: 1.63;
+	text-align: left;
+	color: #b8b8b8;
 }
 .footer_image{
 
 	position: relative;
 	top:22%;right:10%;
 	float: right;
-  width: 50px;
-  height: 33px;
+	width: 50px;
+	height: 33px;
 }
