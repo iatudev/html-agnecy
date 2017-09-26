@@ -1,7 +1,6 @@
 ﻿body {
 	margin: 0;
 }
-
 .header {
 	max-width: 1579px;
 	height: 688px;
@@ -9,42 +8,33 @@
 	margin: 0 auto;
 	padding-top:29px;
 }
-
-
 .infoblock{
 	max-width: 1249px;
 	margin: 108px auto 0px auto
 }
-
 .leftinfo{
 	float: left;
 	max-width: 600px;
 }
-
 .rightinfo{
 	float: right;
 }
-
 .infovideo{
 	width: 551px;
 	height: 356px;
 	background-color: #c2c0b1;
 }
-
 .playvideo{
 	width: 70px;
 	height: 70px;
 }
-
 .center{
 	padding-top:25%;
 	text-align: center;
 }
-
 .logo{
 	width: 588px;
 }
-
 .logo h1{
 	margin: 0;
 	font-family: OpenSans;
@@ -54,7 +44,6 @@
 	letter-spacing: 6px;
 	color: #000000;
 }
-
 .description{
 	margin-top: 36px;
 	width:512px;
@@ -81,13 +70,10 @@
 	padding: 23px 63px; /* отступ от текста */
 	outline: none; /* убирать контур в Mozilla */
 }
-
-
 .head-menu{
 	max-width: 1249px;
 	margin: 0 auto;
 }
-
 .head-menu ul{
 	margin: 0 auto;
 	list-style: none;
@@ -96,7 +82,6 @@
 	height: 89px;
 	text-align: center;
 }
-
 .head-menu a {
 	text-decoration: none;
 	background:#000000;
@@ -116,7 +101,10 @@
 .head-menu li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
 }
+
 .footer{
+	margin: 108px auto 0px auto;
+	float:none;
 	width: 1583px;
 	height: 111px;
 	margin: 0 auto;
@@ -140,6 +128,7 @@
 	width: 50px;
 	height: 33px;
 }
+
 .logo1 {
   width: 493px;
   height: 87px;
@@ -152,8 +141,7 @@
   text-align: left;
   color: rgba(0, 0, 0, 0.8);
 }
-.description1
-{
+.description1{
   width: 509px;
   height: 98px;
   font-family: OpenSans;
@@ -165,8 +153,7 @@
   padding-bottom: 40px;
 }
 
-.Contacts1
-{
+.BottonLearnMore{
 width: 227px;
   height: 55px;
   border-radius: 5px;
@@ -174,8 +161,7 @@ p {border-style: solid;}
   background-color: #ff0000;
   border: solid 2px #ff0000;
 }
-.Contact1
-{
+.TextLearnMore{
   position: relative;
   top:22%;
   width: 106px;
@@ -192,5 +178,14 @@ p {border-style: solid;}
   outline: none; 
   border-radius: 5px;
   text-decoration: none;
+}
 
+.part1{
+	overflow:hidden;
+}
+.part1_left{
+	float: left;
+}
+.part1_right{
+	float: right;
 }
