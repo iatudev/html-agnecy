@@ -1,4 +1,4 @@
-body {
+﻿body {
 	margin: 0;
 }
 
@@ -139,4 +139,58 @@ body {
 	float: right;
 	width: 50px;
 	height: 33px;
+}
+.logo1 {
+  width: 493px;
+  height: 87px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 1.31;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.description1
+{
+  width: 509px;
+  height: 98px;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: #000000;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.Contacts1
+{
+width: 227px;
+  height: 55px;
+  border-radius: 5px;
+p {border-style: solid;}
+  background-color: #ff0000;
+  border: solid 2px #ff0000;
+}
+.Contact1
+{
+  position: relative;
+  top:22%;
+  width: 106px;
+  height: 14px;
+  font-family: OpenSans;
+  font-size: 18.1px;
+  font-weight: bold;
+  line-height: 1.88;
+  letter-spacing: 0.5px;
+  text-align: center;
+  user-select: none;
+  color: #ff2d2d;
+  padding: 23px 63px; 
+  outline: none; 
+  border-radius: 5px;
+  text-decoration: none;
+
 }
