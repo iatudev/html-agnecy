@@ -101,6 +101,264 @@
 .head-menu li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
 }
+
+.bckgr_info{
+	max-width: 1249px;
+	margin: 800px auto 0px auto
+
+
+/*	margin: 0px auto; 
+    margin-left: 108px auto;
+    margin-right: 108px auto;*/
+}
+.Meet-our-team {
+  max-width: 341px;    
+  margin-bottom: 40px;
+  height: 32px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 37px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d-1 {
+  margin-bottom: 33px;
+  width: 446px;
+  height: 73px;
+  opacity: 0.7;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.Rectangle-4-copy-4 {
+  margin-bottom: 69px;
+  width: 132px;
+  height: 3px;
+  background-color: #ff2d2d;
+}
+.vzardini {
+  float: left;
+  margin-right: 75px;
+  background-color: #F5F5DC;
+  width: 321px;
+  height: 458px;
+}
+.bckgr{ 
+    max-width: 1579px;
+    margin-top:100px;
+	/*background-color: #f6f2f2;*/
+	/*margin: 0 auto;*/
+}
+.bckgrq{ 
+	margin-top:170px;
+    max-width: 1579px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+.bckgrqq{ 
+    max-width: 1579px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+
+.rightside{
+    float: left;  
+   
+}
+.mark-waugh {
+
+  padding-bottom: 35px;
+  width: 207px;
+  height: 23px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 27px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d-2 {
+  padding-bottom: 44px;
+  width: 446px;
+  height: 73px;
+  opacity: 0.7;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+}
+.Facebook {
+  float: left;
+  width: 82px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Dribble {
+  padding-left: 29px;
+  float: left;
+  width: 63px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Behance {
+  padding-left: 29px;
+  float: left;
+  width: 72px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Twiter {
+  padding-left: 29px;
+  float: left;
+  width: 52px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.icoppola {
+  margin-top:55px;
+  margin-right: 20px;
+  background-color: #F5F5DC;
+  float: left;
+  width: 196.8px;
+  height: 214px;
+}
+.adonadoni {
+  margin-top:55px;
+  background-color: #F5F5DC;
+  margin-right: 20px;
+  float: left;
+  width: 196.9px;
+  height: 214px;
+}
+.chihuahua {
+  margin-top:55px;
+  background-color: #F5F5DC;
+  margin-right: 20px;
+  float: left;
+  width: 196.8px;
+  height: 214px;
+}
+.dobermann {
+  margin-top:55px;
+  background-color: #F5F5DC;
+  float: left;
+  width: 196.8px;
+  height: 214px;
+}
+
+.Rectangle-6 {
+  margin: auto;
+  	/*margin: 800px auto 0px auto*/
+  margin-top: 677px;
+  width: 1499px;
+  height: 512px;
+  background-color: #F5F5DC;
+}
+
+.Design-tips-tricks-and-freebies-Delivered-weekly {
+  position: absolute;
+  margin-left: 238px;
+  margin-top:140px;
+  width: 1099px;
+  height: 43px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 0.57;
+  letter-spacing: 1.1px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d {
+  position: absolute;
+  margin-left: 518px;
+  margin-top:214px;
+  width: 541px;
+  height: 17px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+input[type="text"] {
+  width: 521px;
+  height: 79px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.Rounded-Rectangle-1 {
+  position: absolute;
+  margin-left: 410px;
+  margin-top:293px;
+  width: 521px;
+  height: 79px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.Rounded-Rectangle-2 {
+  position: absolute;
+  margin-left: 953px;
+  margin-top:293px;
+  width: 213px;
+  height: 78px;
+   border-radius: 12px;
+  background-color: #ff2d2d;
+}
+
+button {
+    border-radius: 12px;
+    background-color: #ff2d2d; 
+    color: white;
+    padding: 29px 71px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
 .feature_products_upper_line {
 	width: 1249px;
 	height: 2px;
@@ -177,6 +435,7 @@
 .feature_products_menu li {
 	float:left;
 }
+
 .footer{
 	width: 1583px;
     width: 100%;
@@ -203,6 +462,7 @@
 	width: 50px;
 	height: 33px;
 }
+
 .feature_products_bckgr{ 
     max-width: 1579px;
 	background-color: #f6f2f2;
@@ -244,3 +504,4 @@
  	height: 330px;
 }
 
+>>>>>>> 1mmense_#15_Sonnik73
