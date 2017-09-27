@@ -303,3 +303,61 @@ body {
 	width: 50px;
 	height: 33px;
 }
+
+.get-in-touch {
+  max-width: 341px;
+  width: 296px;
+  height: 32px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d-g {
+  width: 720px;
+  height: 73px;
+  opacity: 0.7;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+}
+.Rectangle-4-copy-5 {
+  width: 132px;
+  height: 3px;
+  background-color: #ff2d2d;
+}
+.Rounded-Rectangle-7 {
+  width: 339px;
+  height: 69px;
+  opacity: 0.1;
+  background-color: #000000;
+}
+.Rounded-Rectangle-7-copy {
+  width: 339px;
+  height: 69px;
+  opacity: 0.1;
+  border-radius: 10px;
+  background-color: #000000;
+}
+.Rounded-Rectangle-6 {
+  width: 731px;
+  height: 249px;
+  opacity: 0.1;
+  background-color: #000000;
+}
+.Send-message {
+  width: 138px;
+  height: 14px;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.89;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: #ffffff;
+}
