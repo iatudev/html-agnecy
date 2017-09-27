@@ -101,33 +101,6 @@
 .head-menu li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
 }
-
-.footer{
-	margin: 108px auto 0px auto;
-	float:none;
-	width: 1583px;
-	height: 111px;
-	margin: 0 auto;
-	background-color: #313030;
-}
-.footer_text{
-	position: relative;
-	top:40%;left:20%;
-	width: 346px;
-	height: 17px;
-	font-family: OpenSans;
-	font-size: 16px;
-	line-height: 1.63;
-	text-align: left;
-	color: #b8b8b8;
-}
-.footer_image{
-	position: relative;
-	top:22%;right:10%;
-	float: right;
-	width: 50px;
-	height: 33px;
-}
 .feature_products_upper_line {
 	width: 1249px;
 	height: 2px;
@@ -204,3 +177,70 @@
 .feature_products_menu li {
 	float:left;
 }
+.footer{
+	width: 1583px;
+    width: 100%;
+	height: 111px;
+    float: left;
+    margin-top: 110px;
+	background-color: #313030;
+}
+.footer_text{
+	position: relative;
+	top:40%;left:20%;
+	width: 346px;
+	height: 17px;
+	font-family: OpenSans;
+	font-size: 16px;
+	line-height: 1.63;
+	text-align: left;
+	color: #b8b8b8;
+}
+.footer_image{
+	position: relative;
+	top:22%;right:10%;
+	float: right;
+	width: 50px;
+	height: 33px;
+}
+.feature_products_bckgr{ 
+    max-width: 1579px;
+	background-color: #f6f2f2;
+	margin: 0 auto;
+}
+.feature_products_rightside{
+    float: left;   
+}
+.feature_products_icoppola {
+ 	margin-left:100px;
+ 	margin-top:19px;
+ 	margin-right: 20px;
+ 	background-color: #F5F5DC;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+.feature_products_adonadoni {
+ 	margin-top:19px;
+ 	background-color: #F5F5DC;
+ 	margin-right: 20px;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+.feature_products_chihuahua {
+ 	margin-top:19px;
+ 	background-color: #F5F5DC;
+ 	margin-right: 20px;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+.feature_products_dobermann {
+ 	margin-top:19px;
+ 	background-color: #F5F5DC;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+
