@@ -1,7 +1,6 @@
-body {
+﻿body {
 	margin: 0;
 }
-
 .header {
 	max-width: 1579px;
 	height: 688px;
@@ -9,42 +8,33 @@ body {
 	margin: 0 auto;
 	padding-top:29px;
 }
-
-
 .infoblock{
 	max-width: 1249px;
 	margin: 108px auto 0px auto
 }
-
 .leftinfo{
 	float: left;
 	max-width: 600px;
 }
-
 .rightinfo{
 	float: right;
 }
-
 .infovideo{
 	width: 551px;
 	height: 356px;
 	background-color: #c2c0b1;
 }
-
 .playvideo{
 	width: 70px;
 	height: 70px;
 }
-
 .center{
 	padding-top:25%;
 	text-align: center;
 }
-
 .logo{
 	width: 588px;
 }
-
 .logo h1{
 	margin: 0;
 	font-family: OpenSans;
@@ -54,7 +44,6 @@ body {
 	letter-spacing: 6px;
 	color: #000000;
 }
-
 .description{
 	margin-top: 36px;
 	width:512px;
@@ -81,13 +70,10 @@ body {
 	padding: 23px 63px; /* отступ от текста */
 	outline: none; /* убирать контур в Mozilla */
 }
-
-
 .head-menu{
 	max-width: 1249px;
 	margin: 0 auto;
 }
-
 .head-menu ul{
 	margin: 0 auto;
 	list-style: none;
@@ -96,7 +82,6 @@ body {
 	height: 89px;
 	text-align: center;
 }
-
 .head-menu a {
 	text-decoration: none;
 	background:#000000;
@@ -116,11 +101,15 @@ body {
 .head-menu li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
 }
+
 .bckgr_info{
 	max-width: 1249px;
-	margin: 0px auto; 
+	margin: 800px auto 0px auto
+
+
+/*	margin: 0px auto; 
     margin-left: 108px auto;
-    margin-right: 108px auto;
+    margin-right: 108px auto;*/
 }
 .Meet-our-team {
   max-width: 341px;    
@@ -161,14 +150,29 @@ body {
 }
 .bckgr{ 
     max-width: 1579px;
-	background-color: #f6f2f2;
+    margin-top:100px;
+	/*background-color: #f6f2f2;*/
+	/*margin: 0 auto;*/
+}
+.bckgrq{ 
+	margin-top:170px;
+    max-width: 1579px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+.bckgrqq{ 
+    max-width: 1579px;
+	background-color: #ffffff;
 	margin: 0 auto;
 }
 
+
 .rightside{
-    float: left;   
+    float: left;  
+   
 }
 .mark-waugh {
+
   padding-bottom: 35px;
   width: 207px;
   height: 23px;
@@ -280,7 +284,8 @@ body {
 
 .Rectangle-6 {
   margin: auto;
-  margin-top: 650px;
+  	/*margin: 800px auto 0px auto*/
+  margin-top: 677px;
   width: 1499px;
   height: 512px;
   background-color: #F5F5DC;
@@ -354,7 +359,82 @@ button {
     font-size: 16px;
 
 }
-
+.feature_products_upper_line {
+	width: 1249px;
+	height: 2px;
+	background-color: #ececec;
+	margin: 108px auto 0px auto
+}
+.feature_products_lower_line {
+	width: 132px;
+	height: 3px;
+	background-color: #ff2d2d;
+	margin: 0px auto 108px auto
+}
+.feature_products_infoblock {
+	max-width: 450px;
+	margin: 108px auto 0px auto
+}
+.feature_products_logo {
+	margin: 0px auto 0px auto
+	width: 420px;
+	height: 32px;
+	opacity: 0.8;
+	font-family: OpenSans;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: rgba(0, 0, 0, 0.8);
+}
+.feature_products_description{
+	margin: 0px auto 0px auto
+	width: 504px;
+	height: 45px;
+	font-family: OpenSans;
+	opacity: 0.7;
+	font-size: 16px;
+	line-height: 1.75;
+	text-align: center;
+	color: rgba(0, 0, 0, 0.7);
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+.feature_products{
+	margin: 0px auto 0px auto;
+	overflow:hidden;
+}
+.feature_products_menu{
+	max-width: 1249px;
+	margin: 0px auto 0px auto;
+}
+.feature_products_menu ul{
+	margin: 0px auto 0px auto;
+	list-style: none;
+	height: 89px;
+	text-align: center;
+}
+.feature_products_menu a {
+	padding-left: 80px;
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 1.09;
+	letter-spacing: 0.2px;
+	text-align: center;
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.7);
+	font-family: OpenSans;
+	display: inline-block; 
+	-moz-transition: all 0.3s 0.01s ease;
+	-o-transition: all 0.3s 0.01s ease;
+	-webkit-transition: all 0.3s 0.01s ease;
+}
+.feature_products_menu a:hover {
+	color: #ff2d2d;
+}
+.feature_products_menu li {
+	float:left;
+}
 
 .footer{
 	width: 1583px;
@@ -382,3 +462,46 @@ button {
 	width: 50px;
 	height: 33px;
 }
+
+.feature_products_bckgr{ 
+    max-width: 1579px;
+	background-color: #f6f2f2;
+	margin: 0 auto;
+}
+.feature_products_rightside{
+    float: left;   
+}
+.feature_products_icoppola {
+ 	margin-left:100px;
+ 	margin-top:19px;
+ 	margin-right: 20px;
+ 	background-color: #F5F5DC;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+.feature_products_adonadoni {
+ 	margin-top:19px;
+ 	background-color: #F5F5DC;
+ 	margin-right: 20px;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+.feature_products_chihuahua {
+ 	margin-top:19px;
+ 	background-color: #F5F5DC;
+ 	margin-right: 20px;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+.feature_products_dobermann {
+ 	margin-top:19px;
+ 	background-color: #F5F5DC;
+ 	float: left;
+ 	width: 330px;
+ 	height: 330px;
+}
+
+>>>>>>> 1mmense_#15_Sonnik73
