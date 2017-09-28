@@ -1,3 +1,4 @@
+﻿
 ﻿body {
 	margin: 0;
 }
@@ -112,41 +113,41 @@
     margin-right: 108px auto;*/
 }
 .Meet-our-team {
-  max-width: 341px;    
-  margin-bottom: 40px;
-  height: 32px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 37px;
-  font-weight: bold;
-  letter-spacing: 0.4px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.8);
+  	max-width: 341px;    
+  	margin-bottom: 40px;
+  	height: 32px;
+  	opacity: 0.8;
+  	font-family: OpenSans;
+  	font-size: 37px;
+  	font-weight: bold;
+  	letter-spacing: 0.4px;
+  	text-align: left;
+  	color: rgba(0, 0, 0, 0.8);
 }
 .Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d-1 {
-  margin-bottom: 33px;
-  width: 446px;
-  height: 73px;
-  opacity: 0.7;
-  font-family: OpenSans;
-  font-size: 16px;
-  line-height: 1.75;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.7);
+  	margin-bottom: 33px;
+  	width: 446px;
+  	height: 73px;
+  	opacity: 0.7;
+  	font-family: OpenSans;
+  	font-size: 16px;
+  	line-height: 1.75;
+  	text-align: left;
+  	color: rgba(0, 0, 0, 0.7);
 }
 
 .Rectangle-4-copy-4 {
-  margin-bottom: 69px;
-  width: 132px;
-  height: 3px;
-  background-color: #ff2d2d;
+  	margin-bottom: 69px;
+  	width: 132px;
+  	height: 3px;
+  	background-color: #ff2d2d;
 }
 .vzardini {
-  float: left;
-  margin-right: 75px;
-  background-color: #F5F5DC;
-  width: 321px;
-  height: 458px;
+  	float: left;
+  	margin-right: 75px;
+  	background-color: #F5F5DC;
+  	width: 321px;
+  	height: 458px;
 }
 .bckgr{ 
     max-width: 1579px;
@@ -165,187 +166,182 @@
 	background-color: #ffffff;
 	margin: 0 auto;
 }
-
-
 .rightside{
     float: left;  
    
 }
 .mark-waugh {
-
-  padding-bottom: 35px;
-  width: 207px;
-  height: 23px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 27px;
-  font-weight: 600;
-  letter-spacing: 0.3px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.8);
+ 	padding-bottom: 35px;
+ 	width: 207px;
+ 	height: 23px;
+ 	opacity: 0.8;
+ 	font-family: OpenSans;
+ 	font-size: 27px;
+ 	font-weight: 600;
+ 	letter-spacing: 0.3px;
+ 	text-align: left;
+ 	color: rgba(0, 0, 0, 0.8);
 }
 .Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d-2 {
-  padding-bottom: 44px;
-  width: 446px;
-  height: 73px;
-  opacity: 0.7;
-  font-family: OpenSans;
-  font-size: 16px;
-  line-height: 1.75;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.7);
+ 	padding-bottom: 44px;
+ 	width: 446px;
+ 	height: 73px;
+ 	opacity: 0.7;
+ 	font-family: OpenSans;
+ 	font-size: 16px;
+ 	line-height: 1.75;
+ 	text-align: left;
+ 	color: rgba(0, 0, 0, 0.7);
 }
 .Facebook {
-  float: left;
-  width: 82px;
-  height: 15px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 18px;
-  font-style: italic;
-  line-height: 1.33;
-  letter-spacing: 0.9px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.8);
+ 	float: left;
+ 	width: 82px;
+ 	height: 15px;
+ 	opacity: 0.8;
+ 	font-family: OpenSans;
+ 	font-size: 18px;
+ 	font-style: italic;
+ 	line-height: 1.33;
+ 	letter-spacing: 0.9px;
+ 	text-align: left;
+ 	color: rgba(0, 0, 0, 0.8);
 }
 .Dribble {
-  padding-left: 29px;
-  float: left;
-  width: 63px;
-  height: 15px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 18px;
-  font-style: italic;
-  line-height: 1.33;
-  letter-spacing: 0.9px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.8);
+ 	padding-left: 29px;
+ 	float: left;
+ 	width: 63px;
+ 	height: 15px;
+ 	opacity: 0.8;
+ 	font-family: OpenSans;
+ 	font-size: 18px;
+ 	font-style: italic;
+ 	line-height: 1.33;
+ 	letter-spacing: 0.9px;
+ 	text-align: left;
+ 	color: rgba(0, 0, 0, 0.8);
 }
 .Behance {
-  padding-left: 29px;
-  float: left;
-  width: 72px;
-  height: 15px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 18px;
-  font-style: italic;
-  line-height: 1.33;
-  letter-spacing: 0.9px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.8);
+ 	padding-left: 29px;
+ 	float: left;
+ 	width: 72px;
+ 	height: 15px;
+ 	opacity: 0.8;
+ 	font-family: OpenSans;
+ 	font-size: 18px;
+ 	font-style: italic;
+ 	line-height: 1.33;
+ 	letter-spacing: 0.9px;
+ 	text-align: left;
+ 	color: rgba(0, 0, 0, 0.8);
 }
 .Twiter {
-  padding-left: 29px;
-  float: left;
-  width: 52px;
-  height: 15px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 18px;
-  font-style: italic;
-  line-height: 1.33;
-  letter-spacing: 0.9px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.8);
+ 	padding-left: 29px;
+ 	float: left;
+ 	width: 52px;
+ 	height: 15px;
+ 	opacity: 0.8;
+ 	font-family: OpenSans;
+ 	font-size: 18px;
+ 	font-style: italic;
+ 	line-height: 1.33;
+ 	letter-spacing: 0.9px;
+ 	text-align: left;
+ 	color: rgba(0, 0, 0, 0.8);
 }
 .icoppola {
-  margin-top:55px;
-  margin-right: 20px;
-  background-color: #F5F5DC;
-  float: left;
-  width: 196.8px;
-  height: 214px;
+ 	margin-top:55px;
+ 	margin-right: 20px;
+ 	background-color: #F5F5DC;
+ 	float: left;
+ 	width: 196.8px;
+ 	height: 214px;
 }
 .adonadoni {
-  margin-top:55px;
-  background-color: #F5F5DC;
-  margin-right: 20px;
-  float: left;
-  width: 196.9px;
-  height: 214px;
+ 	margin-top:55px;
+ 	background-color: #F5F5DC;
+ 	margin-right: 20px;
+ 	float: left;
+ 	width: 196.9px;
+ 	height: 214px;
 }
 .chihuahua {
-  margin-top:55px;
-  background-color: #F5F5DC;
-  margin-right: 20px;
-  float: left;
-  width: 196.8px;
-  height: 214px;
+ 	margin-top:55px;
+ 	background-color: #F5F5DC;
+ 	margin-right: 20px;
+ 	float: left;
+ 	width: 196.8px;
+ 	height: 214px;
 }
 .dobermann {
-  margin-top:55px;
-  background-color: #F5F5DC;
-  float: left;
-  width: 196.8px;
-  height: 214px;
+ 	margin-top:55px;
+ 	background-color: #F5F5DC;
+ 	float: left;
+ 	width: 196.8px;
+ 	height: 214px;
 }
-
 .Rectangle-6 {
-  margin: auto;
-  	/*margin: 800px auto 0px auto*/
-  margin-top: 677px;
-  width: 1499px;
-  height: 512px;
-  background-color: #F5F5DC;
+ 	margin: auto;
+ 	margin-top: 677px;
+ 	width: 1499px;
+ 	height: 512px;
+ 	background-color: #F5F5DC;
 }
 
 .Design-tips-tricks-and-freebies-Delivered-weekly {
-  position: absolute;
-  margin-left: 238px;
-  margin-top:140px;
-  width: 1099px;
-  height: 43px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 42px;
-  font-weight: bold;
-  line-height: 0.57;
-  letter-spacing: 1.1px;
-  text-align: center;
-  color: rgba(255, 255, 255, 0.8);
+ 	position: absolute;
+ 	margin-left: 238px;
+ 	margin-top:140px;
+ 	width: 1099px;
+ 	height: 43px;
+ 	opacity: 0.8;
+	font-family: OpenSans;
+	font-size: 42px;
+	font-weight: bold;
+	line-height: 0.57;
+	letter-spacing: 1.1px;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.8);
 }
 
 .Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d {
-  position: absolute;
-  margin-left: 518px;
-  margin-top:214px;
-  width: 541px;
-  height: 17px;
-  opacity: 0.8;
-  font-family: OpenSans;
-  font-size: 16px;
-  line-height: 1.75;
-  text-align: center;
-  color: rgba(255, 255, 255, 0.8);
+	position: absolute;
+	margin-left: 518px;
+	margin-top:214px;
+	width: 541px;
+	height: 17px;
+	opacity: 0.8;
+	font-family: OpenSans;
+	font-size: 16px;
+	line-height: 1.75;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.8);
 }
 
 input[type="text"] {
-  width: 521px;
-  height: 79px;
-  font-size: 16px;
-  border-radius: 8px;
+	width: 521px;
+	height: 79px;
+	font-size: 16px;
+	border-radius: 8px;
 }
 
 .Rounded-Rectangle-1 {
-  position: absolute;
-  margin-left: 410px;
-  margin-top:293px;
-  width: 521px;
-  height: 79px;
-  border-radius: 5px;
-  background-color: #ffffff;
+	position: absolute;
+	margin-left: 410px;
+	margin-top:293px;
+	width: 521px;
+	height: 79px;
+	border-radius: 5px;
+	background-color: #ffffff;
 }
 
 .Rounded-Rectangle-2 {
-  position: absolute;
-  margin-left: 953px;
-  margin-top:293px;
-  width: 213px;
-  height: 78px;
-   border-radius: 12px;
-  background-color: #ff2d2d;
+	position: absolute;
+	margin-left: 953px;
+	margin-top:293px;
+	width: 213px;
+	height: 78px;
+	border-radius: 12px;
+	background-color: #ff2d2d;
 }
 
 button {
@@ -463,45 +459,215 @@ button {
 	height: 33px;
 }
 
+.Rectangle-6 {
+  margin: auto;
+  margin-top: 677px;
+  width: 1499px;
+  height: 512px;
+  background-color: #F5F5DC;
+}
+
+
+.get_in_touch_block{
+  //border-style: solid;
+	width: 1499px;
+	margin: auto;
+  //display: inline-block;
+}
+.get-in-touch-left{
+  //border-style: solid;
+  float: left;
+}
+.get-in-touch-right{
+  //border-style: solid;
+  float: right;
+  text-align: right;
+}
+.get_in_touch_input{
+    text-align: left;
+}
+.get-in-touch {
+	margin-top: 100px;
+	height: 32px;
+	opacity: 0.8;
+	font-family: OpenSans;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: 0.4px;
+	text-align: left;
+	color: rgba(0, 0, 0, 0.8);
+}
+.Rectangle-17 {
+  width: 731px;
+  height: 72px;
+  border-radius: 5px;
+  background-color: #ff3b3b;
+}
+.Send-message {
+  margin: auto;
+  width: 138px;
+  height: 14px;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.89;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: #ffffff;
+}
+.Rectangle-2 {
+  float:left;
+  width: 577px;
+  height: 481px;
+  background-color: #2d2d2d;
+}
+.contact-info {
+  margin: 145px 0px 0px 79px;
+  width: 180px;
+  height: 14px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.89;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+}
+.Jalalabad-24 {
+  margin: 41px 0px 0px 79px;
+  width: 285px;
+  height: 45px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+}
+.redwandeviserwebcom {
+  margin: 27px 0px 0px 79px;
+  width: 191px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+}
+.phone-number {
+  margin: 33px 0px 0px 79px;
+  width: 149px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+}
+#text_get_in_touch {
+    width: 350px;
+} 
+#big_text_get_in_touch {
+    width: 729px;
+    height: 250px;
+} 
+.colortext {
+	margin: 0px 20px 40px 0px;
+	background-color: #f6f2f2;
+	color: rgba(0, 0, 0, 0.7);
+	font-family: OpenSans;
+	font-size: 16px;
+	line-height: 1.75;
+	text-align: left;
+	color: rgba(0, 0, 0, 0.7);
+}
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d-g {
+	display:inline-block;
+	width: 720px;
+	height: 73px;
+	opacity: 0.7;
+	font-family: OpenSans;
+	font-size: 16px;
+	line-height: 1.75;
+	text-align: left;
+	color: rgba(0, 0, 0, 0.7);
+	margin: 60px auto 60px auto;
+}
+.Rectangle-4-copy-5 {
+  	width: 132px;
+	height: 3px;
+	background-color: #ff2d2d;
+}
+.Rounded-Rectangle-7 {
+	width: 339px;
+	height: 69px;
+	opacity: 0.1;
+	background-color: #000000;
+}
+.Rounded-Rectangle-7-copy {
+	width: 339px;
+	height: 69px;
+	opacity: 0.1;
+	border-radius: 10px;
+	background-color: #000000;
+}
+.Rounded-Rectangle-6 {
+	width: 731px;
+	height: 249px;
+	opacity: 0.1;
+	background-color: #000000;
+}
+.Send-message {
+	width: 138px;
+	height: 14px;
+	font-family: OpenSans;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.89;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #ffffff;
+}
 .feature_products_bckgr{ 
-    max-width: 1579px;
+	max-width: 1579px;
 	background-color: #f6f2f2;
 	margin: 0 auto;
 }
 .feature_products_rightside{
-    float: left;   
+ 	float: left;   
 }
 .feature_products_icoppola {
- 	margin-left:100px;
- 	margin-top:19px;
- 	margin-right: 20px;
- 	background-color: #F5F5DC;
- 	float: left;
- 	width: 330px;
- 	height: 330px;
+	margin-left:100px;
+	margin-top:19px;
+	margin-right: 20px;
+	background-color: #F5F5DC;
+	float: left;
+	width: 330px;
+	height: 330px;
 }
 .feature_products_adonadoni {
- 	margin-top:19px;
- 	background-color: #F5F5DC;
- 	margin-right: 20px;
- 	float: left;
- 	width: 330px;
- 	height: 330px;
+	margin-top:19px;
+	background-color: #F5F5DC;
+	margin-right: 20px;
+	float: left;
+	width: 330px;
+	height: 330px;
 }
 .feature_products_chihuahua {
- 	margin-top:19px;
- 	background-color: #F5F5DC;
- 	margin-right: 20px;
- 	float: left;
- 	width: 330px;
- 	height: 330px;
+	margin-top:19px;
+	background-color: #F5F5DC;
+	margin-right: 20px;
+	float: left;
+	width: 330px;
+	height: 330px;
 }
 .feature_products_dobermann {
- 	margin-top:19px;
- 	background-color: #F5F5DC;
- 	float: left;
- 	width: 330px;
- 	height: 330px;
+	margin-top:19px;
+	background-color: #F5F5DC;
+	float: left;
+	width: 330px;
+	height: 330px;
 }
-
->>>>>>> 1mmense_#15_Sonnik73
