@@ -358,12 +358,14 @@ button {
 .feature_products_upper_line {
 	width: 1249px;
 	height: 2px;
+    border: 0;
 	background-color: #ececec;
 	margin: 108px auto 0px auto
 }
 .feature_products_lower_line {
 	width: 132px;
 	height: 3px;
+    border: 0;
 	background-color: #ff2d2d;
 	margin: 0px auto 108px auto
 }
@@ -464,7 +466,7 @@ button {
 	margin-top: 677px;
 	width: 1499px;
 	height: 512px;
-	background-color: #F5F5DC;
+	background-color: #f3f1de;
 }
 
 
