@@ -24,6 +24,7 @@
 	width: 551px;
 	height: 356px;
 	background-color: #c2c0b1;
+	box-shadow: 0 0 100px 20px rgba(122,122,122,0.5);
 }
 .playvideo{
 	width: 70px;
