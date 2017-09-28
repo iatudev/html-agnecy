@@ -318,14 +318,16 @@
 }
 
 input[type="text"] {
-	width: 339px;
+    padding-left: 20px;
+    padding-right: 20px;
+	width: 319px;
 	height: 79px;
 	font-size: 16px;
 	border-radius: 8px;
 }
 
 input[type="text"].subscribeemail{
-	width: 521px;
+	width: 481px;
 	height: 79px;
 	font-size: 16px;
 	border-radius: 8px;
