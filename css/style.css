@@ -458,19 +458,32 @@ button {
 	width: 50px;
 	height: 33px;
 }
-.git_in_touch_block{
-	max-width: 1549px;
-	margin: 108px auto 0px auto;
-  display: inline-block;
+
+.Rectangle-6 {
+  margin: auto;
+  margin-top: 677px;
+  width: 1499px;
+  height: 512px;
+  background-color: #F5F5DC;
+}
+
+
+.get_in_touch_block{
+  //border-style: solid;
+	width: 1499px;
+	margin: auto;
+  //display: inline-block;
 }
 .get-in-touch-left{
+  //border-style: solid;
   float: left;
 }
 .get-in-touch-right{
+  //border-style: solid;
   float: right;
   text-align: right;
 }
-.git_in_touch_input{
+.get_in_touch_input{
     text-align: left;
 }
 .get-in-touch {
@@ -484,9 +497,25 @@ button {
 	text-align: left;
 	color: rgba(0, 0, 0, 0.8);
 }
+.Rectangle-17 {
+  width: 731px;
+  height: 72px;
+  border-radius: 5px;
+  background-color: #ff3b3b;
+}
+.Send-message {
+  margin: auto;
+  width: 138px;
+  height: 14px;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.89;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: #ffffff;
+}
 .Rectangle-2 {
-  margin-left:107px;
-  margin-top:298px;
   float:left;
   width: 577px;
   height: 481px;
