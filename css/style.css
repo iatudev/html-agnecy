@@ -39,7 +39,7 @@
 .logo h1{
 	margin: 0;
 	font-family: 'Open Sans Extrabold', sans-serif;
-	font-size: 60px;
+	font-size: 55px;
 	font-weight: 800;
 	line-height: 1.2;
 	letter-spacing: 6px;
@@ -318,6 +318,13 @@
 }
 
 input[type="text"] {
+	width: 339px;
+	height: 79px;
+	font-size: 16px;
+	border-radius: 8px;
+}
+
+input[type="text"].subscribeemail{
 	width: 521px;
 	height: 79px;
 	font-size: 16px;
@@ -569,7 +576,7 @@ button {
 	text-align: left;
 	color: rgba(255, 255, 255, 0.8);
 }
-#text_get_in_touch {
+.text_get_in_touch {
 	width: 350px;
 } 
 #big_text_get_in_touch {
@@ -577,7 +584,7 @@ button {
 	height: 250px;
 } 
 .colortext {
-	margin: 0px 20px 40px 0px;
+	margin: 0px 45px 40px 0px;
 	background-color: #f6f2f2;
 	color: rgba(0, 0, 0, 0.7);
 	font-family: OpenSans;
@@ -623,7 +630,7 @@ button {
 	background-color: #000000;
 }
 .Send-message {
-	width: 138px;
+	width: 150px;
 	height: 14px;
 	font-family: OpenSans;
 	font-size: 18px;
