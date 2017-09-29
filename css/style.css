@@ -43,9 +43,9 @@
 }
 .logo h1{
 	margin: 0;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 55px;
-	font-weight: 800;
+	font-weight: bold; /*Нужен Extra-bold, непонимаю как поставить*/
 	line-height: 1.2;
 	letter-spacing: 6px;
 	color: #000000;
@@ -54,7 +54,7 @@
 	margin-top: 36px;
 	width:512px;
 	opacity: 0.7;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -93,7 +93,7 @@
 	background:#000000;
 	color:#e0e0e0;
 	padding:0px 15px; /
-	font-family: 'Open Sans Extrabold', sans-serif; /*НЕ РАБОТАЕТ, памагите*/
+	font-family: 'Open Sans', sans-serif; /*НЕ РАБОТАЕТ, памагите*/
 	line-height:89px;
 	display: block; 
 	-moz-transition: all 0.3s 0.01s ease;
@@ -119,7 +119,7 @@
 	height: 32px;
 	opacity
 	: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 37px;
 	font-weight: bold;
 	letter-spacing: 0.4px;
@@ -131,7 +131,7 @@
 	width: 446px;
 	height: 73px;
 	opacity: 0.7;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -160,7 +160,7 @@
 	width: 207px;
 	height: 23px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 27px;
 	font-weight: 600;
 	letter-spacing: 0.3px;
@@ -172,7 +172,7 @@
 	width: 446px;
 	height: 73px;
 	opacity: 0.7;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -184,7 +184,7 @@
 	height: 15px;
 	margin-right: 25px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-style: italic;
 	line-height: 1.33;
@@ -203,7 +203,7 @@
 .part4_title {
 	padding-top: 10%;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 42px;
 	font-weight: bold;
 	line-height: 0.57;
@@ -214,7 +214,7 @@
 .part4_text {
 	padding-top: 3%;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: center;
@@ -276,7 +276,7 @@ button {
 	width: 420px;
 	height: 32px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: 0.4px;
@@ -287,7 +287,7 @@ button {
 	margin: 0px auto 0px auto
 	width: 504px;
 	height: 45px;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	opacity: 0.7;
 	font-size: 16px;
 	line-height: 1.75;
@@ -319,7 +319,7 @@ button {
 	text-align: center;
 	text-decoration: none;
 	color: rgba(0, 0, 0, 0.7);
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: inline-block; 
 	-moz-transition: all 0.3s 0.01s ease;
 	-o-transition: all 0.3s 0.01s ease;
@@ -345,7 +345,7 @@ button {
 	top:40%;left:20%;
 	width: 40%;
 	height: 17px;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.63;
 	text-align: left;
@@ -389,7 +389,7 @@ button {
 	margin-top: 100px;
 	height: 32px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: 0.4px;
@@ -413,7 +413,7 @@ button {
 	width: 180px;
 	height: 14px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-weight: bold;
 	line-height: 1.89;
@@ -426,7 +426,7 @@ button {
 	width: 285px;
 	height: 45px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -437,7 +437,7 @@ button {
 	width: 191px;
 	height: 15px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -448,7 +448,7 @@ button {
 	width: 149px;
 	height: 15px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -465,7 +465,7 @@ button {
 	margin: 0px 45px 40px 0px;
 	background-color: #f6f2f2;
 	color: rgba(0, 0, 0, 0.7);
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -476,7 +476,7 @@ button {
 	width: 720px;
 	height: 73px;
 	opacity: 0.7;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -487,7 +487,7 @@ button {
 	margin: auto;
 	width: 150px;
 	height: 14px;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-weight: bold;
 	line-height: 1.89;
@@ -548,7 +548,7 @@ button {
 	top:22%;
 	width: 106px;
 	height: 14px;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18.1px;
 	font-weight: bold;
 	line-height: 1.88;
@@ -565,7 +565,7 @@ button {
 	width: 493px;
 	height: 87px;
 	opacity: 0.8;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 42px;
 	font-weight: bold;
 	line-height: 1.31;
@@ -576,7 +576,7 @@ button {
 .part1_description{
 	width: 529px;
 	height: 98px;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
@@ -596,7 +596,7 @@ button {
 .part1_title{
 	margin-top: 20px;
 	margin-bottom: 20px;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
 	font-weight: 600;
 	letter-spacing: 0.2px;
@@ -606,7 +606,7 @@ button {
 	width: 271px;
 	height: 101px;
 	opacity: 0.7;
-	font-family: 'Open Sans Extrabold', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	color: rgba(0, 0, 0, 0.7);
