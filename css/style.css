@@ -317,8 +317,6 @@ input[type="text"] {
 input[type="text"].subscribeemail{
 	border-style: solid;
 	border: 0.25em solid white;
-	margin-top: 3%;
-	margin-left: 29%;
 	width: 481px;
 	height: 79px;
 	border-radius: 5px;
@@ -326,22 +324,21 @@ input[type="text"].subscribeemail{
 
 
 button {
-	margin-left: 67%;
 	padding: 35px 71px;
-	text-align: center;
 	border-radius: 12px;
 	background-color: #ff2d2d; 
 	color: white;
 }
 
 .part4_ib{
-padding: 2%;
-display: inline-block;
+	float: left;
+    margin-right: 7px;
 }
 
 .part4_input_and_button{
-	width: 63%;
+	width:50%;
 	margin: auto;
+    overflow: hidden;
 }
 
 
