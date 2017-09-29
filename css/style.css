@@ -359,9 +359,7 @@ button {
 	height: 33px;
 }
 .part4 {
-	
- 
-	margin-top: 110px;
+	margin: 110px auto;
 	width: 1499px;
 	height: 512px;
 	background-color: #f3f1de;
