@@ -1,6 +1,10 @@
-
 ﻿body {
-	margin: 0;
+	margin: 0 auto;
+	max-width: 1579px;
+}
+.content {
+	max-width: 1249px;
+	margin: 0 auto;
 }
 .header {
 	max-width: 1579px;
@@ -11,7 +15,7 @@
 }
 .infoblock{
 	max-width: 1249px;
-	margin: 108px auto 0px auto
+	margin: 108px auto 0px auto;
 }
 .leftinfo{
 	float: left;
@@ -106,12 +110,8 @@
 
 .bckgr_info{
 	max-width: 1249px;
-	margin: 800px auto 0px auto
-	
-	
-	/*	margin: 0px auto; 
-		margin-left: 108px auto;
-	margin-right: 108px auto;*/
+	margin-top: 140px;
+    overflow: hidden;
 }
 .Meet-our-team {
 	max-width: 341px;    
@@ -280,13 +280,7 @@
 	width: 196.8px;
 	height: 214px;
 }
-.Rectangle-6 {
-	margin: auto;
-	margin-top: 677px;
-	width: 1499px;
-	height: 512px;
-	background-color: #F5F5DC;
-}
+
 
 .Design-tips-tricks-and-freebies-Delivered-weekly {
 	position: absolute;
@@ -472,8 +466,7 @@ button {
 }
 
 .Rectangle-6 {
-	margin: auto;
-	margin-top: 677px;
+	margin-top: 110px;
 	width: 1499px;
 	height: 512px;
 	background-color: #f3f1de;
@@ -645,43 +638,42 @@ button {
 }
 .feature_products_bckgr{ 
 	max-width: 1579px;
-	background-color: #f6f2f2;
-	margin: 0 auto;
+    overflow: hidden;
 }
 .feature_products_rightside{
-	float: left;   
+	float: left;  
+	width: 100%;
 }
 .feature_products_icoppola {
-	margin-left:100px;
 	margin-top:19px;
-	margin-right: 20px;
+	margin-left: 20px;
 	background-color: #F5F5DC;
 	float: left;
-	width: 330px;
-	height: 330px;
+	width: 23%;
+	height: 290px;
 }
 .feature_products_adonadoni {
 	margin-top:19px;
 	background-color: #F5F5DC;
 	margin-right: 20px;
 	float: left;
-	width: 330px;
-	height: 330px;
+	width: 297px;
+	height: 290px;
 }
 .feature_products_chihuahua {
 	margin-top:19px;
 	background-color: #F5F5DC;
 	margin-right: 20px;
 	float: left;
-	width: 330px;
-	height: 330px;
+	width: 297px;
+	height: 290px;
 }
 .feature_products_dobermann {
 	margin-top:19px;
 	background-color: #F5F5DC;
 	float: left;
-	width: 330px;
-	height: 330px;
+	width: 297px;
+	height: 290px;
 }
 .part1{
 	overflow:hidden;
