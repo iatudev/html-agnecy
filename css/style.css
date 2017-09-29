@@ -282,14 +282,10 @@
 }
 
 
-.Design-tips-tricks-and-freebies-Delivered-weekly {
-	position: absolute;
-	margin-left: 238px;
-	margin-top:140px;
-	width: 1099px;
-	height: 43px;
+.part4_title {
+	padding-top: 10%;
 	opacity: 0.8;
-	font-family: OpenSans;
+	font-family: 'Open Sans Extrabold', sans-serif;
 	font-size: 42px;
 	font-weight: bold;
 	line-height: 0.57;
@@ -298,14 +294,10 @@
 	color: rgba(255, 255, 255, 0.8);
 }
 
-.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-sed-d {
-	position: absolute;
-	margin-left: 518px;
-	margin-top:214px;
-	width: 541px;
-	height: 17px;
+.part4_text {
+	padding-top: 3%;
 	opacity: 0.8;
-	font-family: OpenSans;
+	font-family: 'Open Sans Extrabold', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: center;
@@ -313,6 +305,7 @@
 }
 
 input[type="text"] {
+	
     padding-left: 20px;
     padding-right: 20px;
 	width: 319px;
@@ -322,43 +315,36 @@ input[type="text"] {
 }
 
 input[type="text"].subscribeemail{
+	border-style: solid;
+	border: 0.25em solid white;
+	margin-top: 3%;
+	margin-left: 29%;
 	width: 481px;
 	height: 79px;
-	font-size: 16px;
-	border-radius: 8px;
-}
-
-.Rounded-Rectangle-1 {
-	position: absolute;
-	margin-left: 410px;
-	margin-top:293px;
-	width: 521px;
-	height: 79px;
 	border-radius: 5px;
-	background-color: #ffffff;
 }
 
-.Rounded-Rectangle-2 {
-	position: absolute;
-	margin-left: 953px;
-	margin-top:293px;
-	width: 213px;
-	height: 78px;
-	border-radius: 12px;
-	background-color: #ff2d2d;
-}
 
 button {
+	margin-left: 67%;
+	padding: 35px 71px;
+	text-align: center;
 	border-radius: 12px;
 	background-color: #ff2d2d; 
 	color: white;
-	padding: 29px 71px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	
 }
+
+.part4_ib{
+padding: 2%;
+display: inline-block;
+}
+
+.part4_input_and_button{
+	width: 63%;
+	margin: auto;
+}
+
+
 .feature_products_upper_line {
 	width: 1249px;
 	height: 2px;
@@ -465,7 +451,9 @@ button {
 	height: 33px;
 }
 
-.Rectangle-6 {
+.part4 {
+	
+ 
 	margin-top: 110px;
 	width: 1499px;
 	height: 512px;
