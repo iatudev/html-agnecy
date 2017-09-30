@@ -225,7 +225,7 @@ input[type="text"] {
     padding-left: 20px;
     padding-right: 20px;
 	width: 319px;
-	height: 79px;
+	height: 64px;
 	font-size: 16px;
 	border-radius: 8px;
 }
@@ -367,7 +367,6 @@ button {
 	//border-style: solid;
 	width: 1499px;
 	margin: auto;
-	//display: inline-block;
 }
 .part5_left{
 	//border-style: solid;
@@ -394,8 +393,9 @@ button {
 	color: rgba(0, 0, 0, 0.8);
 }
 .part5_rectangle {
-	width: 731px;
-	height: 72px;
+  	padding-top: 18px;
+	width: 771px;
+	height: 54px;
 	border-radius: 5px;
 	background-color: #ff3b3b;
 }
@@ -456,10 +456,10 @@ button {
 } 
 #big_text_get_in_touch {
 	width: 729px;
-	height: 250px;
+	height: 244px;
 } 
 .colortext {
-	margin: 0px 45px 40px 0px;
+	margin: 0px 45px 45px 0px;
 	background-color: #f6f2f2;
 	color: rgba(0, 0, 0, 0.7);
 	font-family: 'Open Sans', sans-serif;
@@ -483,7 +483,6 @@ button {
 .part5_send_message {
 	margin: auto;
 	width: 150px;
-	height: 14px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-weight: bold;
@@ -491,6 +490,9 @@ button {
 	letter-spacing: 0.4px;
 	text-align: center;
 	color: #ffffff;
+}
+.part5_send_message_text{
+  margin-top: 29px;
 }
 .feature_products_bckgr{ 
 	max-width: 1579px;
