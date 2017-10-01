@@ -380,6 +380,7 @@ button {
 }
 .part5_input{
 	text-align: left;
+	
 }
 .part5_title {
 	margin-top: 100px;
@@ -502,13 +503,31 @@ button {
 	float: left;  
 	width: 100%;
 }
+.feature_products_rightside{
+	
+	
+	float: left;  
+	width: 100%;
+	
+}
+
 .feature_products_icoppola {
-	margin-top:19px;
-	margin-left: 20px;
-	background-color: #F5F5DC;
+	margin-left:1%;
+	background-color: #FFFFFF;
 	float: left;
-	width: 23%;
+	width: 49%;
 	height: 290px;
+}
+
+.feature_products_icoppola2 {
+	margin-bottom:-2px;
+	margin-top:-2px;
+	float: left;  
+	width: 624.5px;
+	
+	height: 290px;
+	min-width:400px;
+
 }
 .feature_products_adonadoni {
 	margin-top:19px;
