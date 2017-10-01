@@ -154,6 +154,27 @@
 	float: left;  
 	
 }
+.part3_Rectangle_8 {
+    margin-top: 177px;
+    width: 197px;
+    height: 37px;
+    opacity: 0.5;
+    background-color: black;
+}
+.sokina_jue {
+    padding-top: 8px;
+    margin-left: 22%;
+    margin-right: 22%;
+    width: 189px;
+    height: 17px;
+    font-family: OpenSans;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #ffffff;
+}
+
 .part3_title_2 {
 	padding-bottom: 35px;
 	width: 207px;
