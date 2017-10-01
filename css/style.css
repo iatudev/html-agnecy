@@ -224,7 +224,7 @@ input[type="text"] {
 	
     padding-left: 20px;
     padding-right: 20px;
-	width: 319px;
+	width: 295px; /*По факту - 339px*/
 	height: 64px;
 	font-size: 16px;
 	border-radius: 8px;
@@ -359,22 +359,18 @@ button {
 }
 .part4 {
 	margin: 110px auto;
-	width: 1499px;
 	height: 512px;
 	background-color: #f3f1de;
 }
 .part5{
-	//border-style: solid;
-	width: 1499px;
-	margin: auto;
+	width: 1414px;
+	float: right;
 }
 .part5_left{
-	//border-style: solid;
 	float: left;
 }
 
 .part5_right{
-	//border-style: solid;
 	float: right;
 	text-align: right;
 }
@@ -382,8 +378,6 @@ button {
 	text-align: left;
 }
 .part5_title {
-	margin-top: 100px;
-	height: 32px;
 	opacity: 0.8;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 42px;
@@ -394,7 +388,7 @@ button {
 }
 .part5_rectangle {
   	padding-top: 18px;
-	width: 771px;
+	width: 728px;
 	height: 54px;
 	border-radius: 5px;
 	background-color: #ff3b3b;
@@ -457,7 +451,7 @@ button {
 #big_text_get_in_touch {
 	padding-left: 20px;
     padding-right: 20px;
-    width: 729px;
+    width: 687px; /*На деле получается 731px, Какойто баг, непонятно... */
     height: 244px;
     resize: none;
     border-radius: 8px;
@@ -478,14 +472,13 @@ button {
 .part5_text {
 	display:inline-block;
 	width: 720px;
-	height: 73px;
 	opacity: 0.7;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.75;
 	text-align: left;
 	color: rgba(0, 0, 0, 0.7);
-	margin: 60px auto 60px auto;
+	margin: 51px auto 55px auto;
 }
 .part5_send_message {
 	margin: auto;
