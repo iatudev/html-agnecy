@@ -264,7 +264,11 @@
 		</div>
         <script src="js/wow.min.js"></script>
         <script>
-            new WOW().init();
+            var wow = new WOW(
+            {
+                mobile:false  
+            });
+            wow.init();
         </script>
 	</body>
 </html>					
