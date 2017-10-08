@@ -1,0 +1,31 @@
+@media (max-width: 1100px) {
+	.leftinfo {
+		float: none;
+		width: auto;
+	}
+	.rightinfo {
+		display: none;
+	}
+	
+	.part1_block {
+		width: auto;
+	}
+	.infoblock{
+		padding: 0 30px;
+	}
+}
+
+@media (max-width: 850px) {
+	.part1_left{
+		float: none;
+		width: auto;
+	}
+	.part1_right{
+		float: none;
+		width: auto;
+		margin-top: 30px;
+	}
+	.BottonLearnMore {
+		margin: auto;
+	}
+}
