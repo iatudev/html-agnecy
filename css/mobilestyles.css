@@ -1,3 +1,20 @@
+@media (max-width: 1300px) {
+	.part1_left{
+		float: none;
+		width: auto;
+	}
+	.part1_right{
+		float: none;
+		width: auto;
+		margin-top: 30px;
+	}
+	.BottonLearnMore {
+		margin: auto;
+	}
+	.part2{
+		padding: 0 30px;
+	}
+}
 @media (max-width: 1100px) {
 	.leftinfo {
 		float: none;
@@ -12,6 +29,26 @@
 	}
 	.infoblock{
 		padding: 0 30px;
+	}
+	.part3_title{
+		margin: 0 auto;
+	}
+	.part3_text{
+		margin:0 auto;
+	}
+	.part3_Rectangle{
+		margin: 33px auto 69px auto;
+	}
+	.vzardini {
+		margin: 0 auto;
+		float: none;
+	}
+
+	.part3_rightside {
+		width: 100%;
+	}
+	.part3_image {
+    width: 23%;
 	}
 }
 
@@ -28,4 +65,6 @@
 	.BottonLearnMore {
 		margin: auto;
 	}
+	
+
 }
