@@ -84,7 +84,7 @@
 }
 .head-menu ul{
 	margin: 0 auto;
-	display: table;
+    display: table;
 	list-style: none;
 	height: 89px;
 }
@@ -111,11 +111,12 @@
 .part3{
 	max-width: 1249px;
 	margin-top: 140px;
-	overflow: hidden;
+    overflow: hidden;
 }
 .part3_title {
 	max-width: 341px;    
-	height: 80px;
+	margin-bottom: 40px;
+	height: 32px;
 	opacity
 	: 0.8;
 	font-family: 'Open Sans', sans-serif;
@@ -126,6 +127,7 @@
 	color: rgba(0, 0, 0, 0.8);
 }
 .part3_text {
+	margin-bottom: 33px;
 	width: 446px;
 	height: 73px;
 	opacity: 0.7;
@@ -137,7 +139,6 @@
 }
 
 .part3_Rectangle {
-	margin-top: 33px;
 	margin-bottom: 69px;
 	width: 132px;
 	height: 3px;
@@ -155,24 +156,24 @@
 	
 }
 .part3_Rectangle_8 {
-	margin-top: 177px;
-	width: 197px;
-	height: 37px;
-	opacity: 0.5;
-	background-color: black;
+    margin-top: 177px;
+    width: 197px;
+    height: 37px;
+    opacity: 0.5;
+    background-color: black;
 }
 .sokina_jue {
-	padding-top: 8px;
-	margin-left: 22%;
-	margin-right: 22%;
-	width: 189px;
-	height: 17px;
-	font-family: OpenSans;
-	font-size: 18px;
-	font-weight: 600;
-	letter-spacing: 0.2px;
-	text-align: left;
-	color: #ffffff;
+    padding-top: 8px;
+    margin-left: 22%;
+    margin-right: 22%;
+    width: 189px;
+    height: 17px;
+    font-family: OpenSans;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #ffffff;
 }
 
 .part3_title_2 {
@@ -243,8 +244,8 @@
 }
 input[type="text"] {
 	
-	padding-left: 20px;
-	padding-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 	width: 295px; /*По факту - 339px*/
 	height: 64px;
 	font-size: 16px;
@@ -265,25 +266,25 @@ button {
 }
 .part4_ib{
 	float: left;
-	margin-right: 7px;
+    margin-right: 7px;
 }
 
 .part4_input_and_button{
 	width:50%;
 	margin: auto;
-	overflow: hidden;
+    overflow: hidden;
 }
 .feature_products_upper_line {
-	width: 1249px;
+	max-width: 1249px;
 	height: 2px;
-	border: 0;
+    border: 0;
 	background-color: #ececec;
 	margin: 108px auto 0px auto
 }
 .feature_products_lower_line {
 	width: 132px;
 	height: 3px;
-	border: 0;
+    border: 0;
 	background-color: #ff2d2d;
 	margin: 0px auto 108px auto
 }
@@ -397,7 +398,6 @@ button {
 }
 .part5_input{
 	text-align: left;
-	
 }
 .part5_title {
 	opacity: 0.8;
@@ -409,7 +409,7 @@ button {
 	color: rgba(0, 0, 0, 0.8);
 }
 .part5_rectangle {
-	padding-top: 18px;
+  	padding-top: 18px;
 	width: 728px;
 	height: 54px;
 	border-radius: 5px;
@@ -472,14 +472,14 @@ button {
 } 
 #big_text_get_in_touch {
 	padding-left: 20px;
-	padding-right: 20px;
-	width: 687px; /*На деле получается 731px, Какойто баг, непонятно... */
-	height: 244px;
-	resize: none;
-	border-radius: 8px;
-	border-style: inset;
-	border-width: 1.99219px;
-	border-color: rgb(238,238,238);
+    padding-right: 20px;
+    width: 687px; /*На деле получается 731px, Какойто баг, непонятно... */
+    height: 244px;
+    resize: none;
+    border-radius: 8px;
+    border-style: inset;
+    border-width: 1.99219px;
+    border-color: rgb(238,238,238);
 } 
 .colortext {
 	margin: 0px 45px 45px 0px;
@@ -518,37 +518,19 @@ button {
 }
 .feature_products_bckgr{ 
 	max-width: 1579px;
-	overflow: hidden;
+    overflow: hidden;
 }
 .feature_products_rightside{
 	float: left;  
 	width: 100%;
 }
-.feature_products_rightside{
-	
-	
-	float: left;  
-	width: 100%;
-	
-}
-
 .feature_products_icoppola {
-	margin-left:1%;
-	background-color: #FFFFFF;
+	margin-top:19px;
+	margin-left: 20px;
+	background-color: #F5F5DC;
 	float: left;
-	width: 49%;
+	width: 20%;
 	height: 290px;
-}
-
-.feature_products_icoppola2 {
-	margin-bottom:-2px;
-	margin-top:-2px;
-	float: left;  
-	width: 624.5px;
-	
-	height: 290px;
-	min-width:400px;
-	
 }
 .feature_products_adonadoni {
 	margin-top:19px;
@@ -582,7 +564,7 @@ button {
 }
 .part1_right{
 	width: 50%;
-	overflow: hidden;
+    overflow: hidden;
 	float: right;
 }
 .TextLearnMore{
