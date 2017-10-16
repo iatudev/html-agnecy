@@ -553,12 +553,14 @@ button {
 	background-color: #F5F5DC;
 	float: left;
 	width: 297px;
-	height: 290px;
+	height: 290px;z
 }
-.part1{
+.do-you-know{
 	overflow:hidden;
+	max-width: 1249px;
+	margin: 108px auto 0px auto;
 }
-.part1_left{
+.do-you-know__upper-part{
 	width: 50%;
 	float: left;
 }
@@ -567,7 +569,7 @@ button {
     overflow: hidden;
 	float: right;
 }
-.TextLearnMore{
+.do-you-know__upper-part_button_text{
 	position: relative;
 	top:22%;
 	width: 106px;
@@ -585,7 +587,7 @@ button {
 	border-radius: 5px;
 	text-decoration: none;
 }
-.part1_logo {
+.do-you-know__upper-part_logo {
 	opacity: 0.8;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 42px;
@@ -595,7 +597,7 @@ button {
 	text-align: left;
 	color: rgba(0, 0, 0, 0.8);
 }
-.part1_description{
+.do-you-know__upper-part_description{
 	width: 90%;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
@@ -606,7 +608,7 @@ button {
 	padding-bottom: 40px;
 }
 
-.BottonLearnMore{
+.do-you-know__upper-part_button{
 	width: 240px;
 	height: 55px;
 	border-radius: 5px;
