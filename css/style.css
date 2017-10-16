@@ -108,12 +108,12 @@
 	float:left; /*Размещаем список горизонтально для реализации меню*/
 }
 
-.part3{
+.meet_our_team{
 	max-width: 1249px;
 	margin-top: 140px;
     overflow: hidden;
 }
-.part3_title {
+.meet_our_team_title {
 	max-width: 341px;    
 	margin-bottom: 40px;
 	height: 32px;
@@ -126,7 +126,7 @@
 	text-align: left;
 	color: rgba(0, 0, 0, 0.8);
 }
-.part3_text {
+.meet_our_team_description {
 	margin-bottom: 33px;
 	width: 446px;
 	height: 73px;
@@ -138,31 +138,31 @@
 	color: rgba(0, 0, 0, 0.7);
 }
 
-.part3_Rectangle {
+.meet_our_team_red_line {
 	margin-bottom: 69px;
 	width: 132px;
 	height: 3px;
 	background-color: #ff2d2d;
 }
-.vzardini {
+.meet_our_team_main_photo {
 	float: left;
 	margin-right: 75px;
 	background-color: #F5F5DC;
 	width: 321px;
 	height: 458px;
 }
-.part3_rightside{
+.meet_our_team_rightside{
 	float: left;  
 	
 }
-.part3_Rectangle_8 {
+.meet_our_team_rightside_personal_photo_description {
     margin-top: 177px;
     width: 197px;
     height: 37px;
     opacity: 0.5;
     background-color: black;
 }
-.sokina_jue {
+.meet_our_team_rightside_personal_photo_text_description {
     padding-top: 8px;
     margin-left: 22%;
     margin-right: 22%;
@@ -176,7 +176,7 @@
     color: #ffffff;
 }
 
-.part3_title_2 {
+.meet_our_team_rightside_main_name {
 	padding-bottom: 35px;
 	width: 207px;
 	height: 23px;
@@ -188,7 +188,7 @@
 	text-align: left;
 	color: rgba(0, 0, 0, 0.8);
 }
-.part3_text_2 {
+.meet_our_team_rightside_description {
 	padding-bottom: 44px;
 	width: 446px;
 	height: 73px;
@@ -199,7 +199,7 @@
 	text-align: left;
 	color: rgba(0, 0, 0, 0.7);
 }
-.part3_small_text {
+.meet_our_team_rightside_link_to_social_networks {
 	float: left;
 	width: 82px;
 	height: 15px;
@@ -213,7 +213,7 @@
 	text-align: left;
 	color: rgba(0, 0, 0, 0.8);
 }
-.part3_image {
+.meet_our_team_rightside_personal_photo {
 	margin-top:55px;
 	margin-right: 16px;
 	background-color: #F5F5DC;
@@ -531,7 +531,7 @@ button {
 	float: left;
 	width: 20%;
 	height: 290px;
-}
+}	
 .feature_products_adonadoni {
 	margin-top:19px;
 	background-color: #F5F5DC;
